@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: jupyterlab-default-markdown
-Version: 0.1.0
+Version: 0.2.0
 Summary: A simple package to set default JupyterLab cell type to Markdown
 Author: Acan Xie
 Author-email: xie.zeyu20@gmail.com

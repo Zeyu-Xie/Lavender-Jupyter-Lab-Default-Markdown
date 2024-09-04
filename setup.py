@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="jupyterlab-default-markdown",
-    version="0.1.0",
+    version="0.2.0",
     description="A simple package to set default JupyterLab cell type to Markdown",
     long_description="This package automatically sets the default cell type in JupyterLab to Markdown by modifying the appropriate configuration file.",
     author="Acan Xie",
