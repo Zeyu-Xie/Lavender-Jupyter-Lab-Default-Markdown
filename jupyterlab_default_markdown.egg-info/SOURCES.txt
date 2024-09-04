@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+jupyterlab_default_markdown/__init__.py
+jupyterlab_default_markdown.egg-info/PKG-INFO
+jupyterlab_default_markdown.egg-info/SOURCES.txt
+jupyterlab_default_markdown.egg-info/dependency_links.txt
+jupyterlab_default_markdown.egg-info/entry_points.txt
+jupyterlab_default_markdown.egg-info/top_level.txt

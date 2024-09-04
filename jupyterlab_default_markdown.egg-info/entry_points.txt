@@ -1,0 +1,2 @@
+[console_scripts]
+set-default-markdown = jupyterlab_default_markdown.__init__:set_default_cell_type_to_markdown
